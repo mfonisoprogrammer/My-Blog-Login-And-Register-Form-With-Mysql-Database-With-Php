@@ -5,6 +5,12 @@ This is a demo  php code of my tech blog named mfonisoprogrammerblog.com.ng whic
 
 #Guide To Connecting To mY Database Use My Code .
 user : root
+
+
 root : 127.0.0.1
+
+
 password : mfonisoekere 
+
+
 database name : mfonisodatabase
